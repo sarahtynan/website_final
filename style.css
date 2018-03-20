@@ -1,0 +1,49 @@
+
+h1{
+  font-family: futura;
+  font-size: 40px;
+  color: white;
+}
+h2{
+  font-family: futura;
+  font-size: 25px;
+  color: black;
+}
+body,html {
+    height: 100%;
+    margin: 0;
+}
+.bg {
+    background-image: url(resort_1.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img.responsive {
+    width: 100%;
+}
+.sidenav {
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 40px;
+    color: white;
+}
+ul{
+  font-family: futura;
+  font-size: 25px;
+  list-style-type: none;
+}
+a{
+  color: white
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color:white;
+    text-decoration: line-through;
+}
