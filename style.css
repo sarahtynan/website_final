@@ -9,10 +9,7 @@ h2{
   font-size: 25px;
   color: black;
 }
-body,html {
-    height: 100%;
-    margin: 0;
-}
+
 .bg {
     background-image: url(resort_1.jpg);
     height: 100%;
@@ -46,4 +43,9 @@ a:link{
 a:hover{
     color:white;
     text-decoration: line-through;
+}
+div {
+  color:black;
+  font-size:20px;
+  font-family:futura;
 }
